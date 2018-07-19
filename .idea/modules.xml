@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\SG\Desktop\MahmoudMB-BuildItBigger-41a0321\BuildItBegger.iml" filepath="C:\Users\SG\Desktop\MahmoudMB-BuildItBigger-41a0321\BuildItBegger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaJokes/JavaJokes.iml" filepath="$PROJECT_DIR$/JavaJokes/JavaJokes.iml" />
+      <module fileurl="file://C:\Users\SG\Desktop\MahmoudMB-BuildItBigger-41a0321\JavaJokes\JavaJokes.iml" filepath="C:\Users\SG\Desktop\MahmoudMB-BuildItBigger-41a0321\JavaJokes\JavaJokes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MahmoudMB-BuildItBigger-41a0321.iml" filepath="$PROJECT_DIR$/MahmoudMB-BuildItBigger-41a0321.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidlibraryjoke/androidlibraryjoke.iml" filepath="$PROJECT_DIR$/androidlibraryjoke/androidlibraryjoke.iml" />
+      <module fileurl="file://C:\Users\SG\Desktop\MahmoudMB-BuildItBigger-41a0321\androidlibraryjoke\androidlibraryjoke.iml" filepath="C:\Users\SG\Desktop\MahmoudMB-BuildItBigger-41a0321\androidlibraryjoke\androidlibraryjoke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\SG\Desktop\MahmoudMB-BuildItBigger-41a0321\app\app.iml" filepath="C:\Users\SG\Desktop\MahmoudMB-BuildItBigger-41a0321\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
+      <module fileurl="file://C:\Users\SG\Desktop\MahmoudMB-BuildItBigger-41a0321\backend\backend.iml" filepath="C:\Users\SG\Desktop\MahmoudMB-BuildItBigger-41a0321\backend\backend.iml" />
+    </modules>
+  </component>
+</project>
